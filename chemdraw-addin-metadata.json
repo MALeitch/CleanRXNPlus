@@ -1,0 +1,13 @@
+{
+    "name": "Clean RXN+",
+    "description": "Advanced reaction layout tool with customizable spacing and text alignment.",
+    "version": "1.0",
+    "menuItemText": "Clean RXN+",
+    "minimumAPIVersion": "1.0",
+    "url": "index.html",
+    "canBeUninstalled": true,
+    "permissions": [
+        "selection",
+        "python-scripting"
+    ]
+}
